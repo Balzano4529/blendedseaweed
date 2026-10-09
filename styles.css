@@ -84,6 +84,8 @@ button.primary {
   cursor: pointer;
 }
 .error { margin: 18px 0 0; color: #8a3d32; }
+.books { list-style: none; margin: 8px 0 0; padding: 0; }
+.books a { display: inline-block; margin: 0 0 16px; color: var(--sea); font-size: 20px; }
 .signout { margin-top: 28px; }
 .signout button {
   padding: 0;
